@@ -15,6 +15,6 @@ class Student
         Surname = surname;
     }
 
-    // public override string ToString()
-    //  => $"{Id} - {Name} - {Surname}";
+    public override string ToString()
+     => $"{Id} - {Name} - {Surname}";
 }

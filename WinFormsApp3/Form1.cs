@@ -257,9 +257,6 @@ public partial class Form1 : Form
 
 
 
-
-
-
     #region CheckedListBox
 
     private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -273,6 +270,8 @@ public partial class Form1 : Form
     }
 
     #endregion
+
+
 
 
 
